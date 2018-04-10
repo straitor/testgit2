@@ -82,7 +82,7 @@ if __name__ == "__main__":
     tree.add(8)
     tree.add(9)
     tree.breadth_travel()
-    print(" ")
+    print(" dfsdfasdf")
     tree.preorder(tree.root)
     print(" ")
     tree.inorder(tree.root)
