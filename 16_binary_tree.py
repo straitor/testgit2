@@ -84,7 +84,7 @@ if __name__ == "__main__":
     tree.breadth_travel()
     print(" dfsdfasdf")
     tree.preorder(tree.root)
-    print(" ")
+    print("test pull ")
     tree.inorder(tree.root)
     print(" ")
     tree.postorder(tree.root)
