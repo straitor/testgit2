@@ -8,6 +8,7 @@
     tree.inorder(tree.root)
     print(" ")
     tree.postorder(tree.root)
+	github commit rebase 4 2018-4-11 1:5:26
     print(" ")
     
     commit 2
